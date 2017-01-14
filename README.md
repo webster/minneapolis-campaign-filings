@@ -1,7 +1,9 @@
 Minneapolis Campaign Finance Filings
 ====================================
 
-This repository contains campaign finance filings as filed with Hennepin County Taxpayer Services for individuals running for elected office in the City of Minneapolis, organized by office and date. Candidates are included if they have an open committee, which includes candidates who have not publicly announced their candidancy.
+This repository contains campaign finance reports for candidates running for elected office in the City of Minneapolis, as filed with Hennepin County Taxpayer Services.
+
+Within each office folder (e.g. Mayor, City Council), campaign committees for candidates who have announced their candidacy are included in the root of the directory. The folder "Terminated" includes committees that have officially closed down. The folder "Abandoned" includes committees that are technically open, but haven't filed campaign finance reports recently and are presumed abandoned. The folder "Unannounced Active" includes committees that are open, have filed reports, but the candidate hasn't announced their candidacy - these are usually candidates who lost but keep their committees open in case they decide to run in a future election.
 
 This is not machine-readable data. Hennepin County provides fillable PDFs and Microsoft Word .DOC templates for candidates to print and file in-person or via mail, so nothing is electronic at all. Many candidate filings are actually hand-written. Documents here have had pages rotated to correct orientation as necessary, and OCR'd to make some information a bit more readable.
 
