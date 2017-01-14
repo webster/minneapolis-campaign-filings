@@ -1,7 +1,7 @@
 Minneapolis Campaign Finance Filings
 ====================================
 
-This repository contains campaign finance filings as filed with Hennepin County Taxpayer Services for individuals running for elected office in the City of Minneapolis, organized by office and date.
+This repository contains campaign finance filings as filed with Hennepin County Taxpayer Services for individuals running for elected office in the City of Minneapolis, organized by office and date. Candidates are included if they have an open committee, which includes candidates who have not publicly announced their candidancy.
 
 This is not machine-readable data. Hennepin County provides fillable PDFs and Microsoft Word .DOC templates for candidates to print and file in-person or via mail, so nothing is electronic at all. Many candidate filings are actually hand-written. Documents here have had pages rotated to correct orientation as necessary, and OCR'd to make some information a bit more readable.
 
